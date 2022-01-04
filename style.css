@@ -42,6 +42,31 @@ h1{
     background-size: cover;
     
 }
+
 .half-width p{
     padding-right: 120px;
+}
+.shadow{
+    box-shadow: 10px 5px 5px 5px gray;
+    width: 40%;
+    margin: 0 auto;
+    border-left: 7px solid orange;
+    border-top-left-radius: 20px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    
+}
+.routine-area{
+    background-image: url(./image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.cry-area{
+    background-image: url(./image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+footer p{
+    text-align: center;
+    
 }
