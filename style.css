@@ -11,6 +11,7 @@ h1{
 }
 .flex-container{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -34,4 +35,13 @@ h1{
     outline: 5px solid rgb(156, 156, 156);
     margin: 20px auto;
     display: flex;
+}
+.experience-area{ 
+    background-image: url(./image/abstract-white-shapes-background_79603-1362.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.half-width p{
+    padding-right: 120px;
 }
